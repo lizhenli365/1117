@@ -8,3 +8,8 @@ git checkout list.html  把缓冲区的文件覆盖到工作区
 
 
 git rm --cached  从暂存区中删除  （工作目录中还是有这个文件）
+
+git reset --hard "xxxxxx"
+
+
+git  branch 查看分支
