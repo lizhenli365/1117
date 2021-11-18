@@ -4,3 +4,7 @@ git add .
 git commit -m "xx"
 
 git log
+git checkout list.html  把缓冲区的文件覆盖到工作区
+
+
+git rm --cached  从暂存区中删除  （工作目录中还是有这个文件）
